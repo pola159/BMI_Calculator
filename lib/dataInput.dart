@@ -138,7 +138,7 @@ class _calculatBmIState extends State<calculatBmI> {
                                   backgroundColor:
                                       Color.fromRGBO(186, 104, 200, 1),
                                   child: Icon(
-                                    Icons.minimize,
+                                    Icons.remove,
                                     size: 40,
                                     color: Color.fromRGBO(248, 249, 250, 1),
                                   ),
@@ -212,7 +212,7 @@ class _calculatBmIState extends State<calculatBmI> {
                                   backgroundColor:
                                       Color.fromRGBO(186, 104, 200, 1),
                                   child: Icon(
-                                    Icons.minimize,
+                                    Icons.remove,
                                     size: 40,
                                     color: Color.fromRGBO(248, 249, 250, 1),
                                   ),
